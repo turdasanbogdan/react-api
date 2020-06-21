@@ -1,3 +1,25 @@
+# Un mic web page care contine un input box si o lista de nume
+
+  Scopul acestei aplicatii este de a face un GET request si de a extrage datele de la un API dat, dupa care le va afisa.
+
+  De asemenea daca user-ul doreste sa caute anumite date dupa nume, va introduce in input-box numele dorit, 
+iar aplicatia va afisa doar datele care se potrivesc.
+
+  Cautarea se face dinamic, la fiecare modificare a textului dat ca input, datele afisate vor fi filtrate instant.
+  
+### URL  
+  
+http://jsonplaceholder.typicode.com/users  
+
+## UI
+ 
+![Alt text](images/main.png)
+
+### Dupa cautare
+
+![Alt text](images/search.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
